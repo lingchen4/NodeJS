@@ -3,7 +3,7 @@
 ##  Authentication app with login, register and access control using Node.js, Express, Passport, Mongoose, MongoDB, EJS and more.
 
 1. login main page (where you can choose to log in or register)
-  ![main page](/pic/main.jpg)
+  ![main page](/Passport login/pic/main.jpg)
   
 2. failure register
   ![failure register](/pic/fail_register.jpg)
